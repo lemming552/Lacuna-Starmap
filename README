@@ -1,0 +1,3 @@
+This is a starmap plotted with flot used to show players in the game Lacuna Expanse.
+
+It uses a JSON file of data, see the example file for the format.

@@ -1,24 +1,43 @@
 This is a starmap plotted with flot used to show players in the game Lacuna Expanse.
+Originally written by Empire Name it was updated by the player every so often.
+Recently, it has been merged onto the server so that it is served local.
+http://pt.lacunaexpanse.com/starmap/  for the Test Server
+http://us1.lacunaexpanse.com/starmap/ for the Live Server
 
 It uses a JSON file of data, see example.json file for an example.
 
 Format:
 {
-   "2" : {        // series number, should match "rank" below
-      "info" : [
-        // This is what you see when you mouse-over the data in the map. Name, alliance, coordinates.
-         "Empire (Alliance) -- Planet : (0, 0) [0|0]"
-      ],
-      // This is the data to plot, x,y coordinates matching the planet locations. One for each entry in the "info" section.
-      "data" : [
-         [
-            0,
-            0
-         ]
-      ],
-      // Alliance name
-      "label" : "Alliance",
-      // Alliance rank, from the API stats
-      "rank" : 2
+   "alliances" : {
+      "-1" : {
+         "alliance_id" : "-1",
+         "data" : [
+            [
+               "-394",
+               "-494"
+            ],
+            [
+               "416",
+               "256"
+            ]
+         ],
+         "info" : [
+            "Alphard 7 (Sābēn Demesne) -- Col : (-394,-494) [-1|-1]",
+            "Noo Eejow 7 (Sābēn Demesne) -- Cap : (416,256) [1|1]"
+         ],
+         "label" : "Sābēn Demesne"
+      },
    },
+   "map" : {
+      "bounds" : {
+         "x" : [
+            -500,
+            500
+         ],
+         "y" : [
+            -500,
+            500
+         ]
+      }
+   }
 }

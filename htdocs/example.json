@@ -1,138 +1,1380 @@
 {
-   "2" : {
-      "info" : [
-         "Empire (Alliance) -- Planet : (0, 0) [0|0]"
-      ],
-      "data" : [
-         [
-            0,
-            0
-         ]
-      ],
-      "label" : "Alliance",
-      "rank" : 2
+   "alliances" : {
+      "-1" : {
+         "alliance_id" : "-1",
+         "data" : [
+            [
+               "-394",
+               "-494"
+            ],
+            [
+               "416",
+               "256"
+            ]
+         ],
+         "info" : [
+            "Alphard 7 (Sābēn Demesne) -- Col : (-394,-494) [-1|-1]",
+            "Noo Eejow 7 (Sābēn Demesne) -- Cap : (416,256) [1|1]"
+         ],
+         "label" : "Sābēn Demesne"
+      },
+      "-3" : {
+         "alliance_id" : "-3",
+         "data" : [
+            [
+               "-424",
+               "-497"
+            ],
+            [
+               "-409",
+               "-499"
+            ],
+            [
+               "-198",
+               "-499"
+            ],
+            [
+               "252",
+               "-500"
+            ],
+            [
+               "-425",
+               "-248"
+            ],
+            [
+               "-199",
+               "-247"
+            ],
+            [
+               "251",
+               "-250"
+            ],
+            [
+               "-408",
+               "154"
+            ],
+            [
+               "223",
+               "151"
+            ],
+            [
+               "-326",
+               "248"
+            ],
+            [
+               "318",
+               "249"
+            ],
+            [
+               "-199",
+               "254"
+            ]
+         ],
+         "info" : [
+            "Rozeske 6 (Trelvestian Sveitarfélagi) -- Col : (-424,-497) [-1|-1]",
+            "Parker 6 (Trelvestian Sveitarfélagi) -- Col : (-409,-499) [-1|-1]",
+            "Beta Geminorum 5 (Trelvestian Sveitarfélagi) -- Col : (-198,-499) [0|-1]",
+            "Menkar 5 (Trelvestian Sveitarfélagi) -- Col : (252,-500) [1|-1]",
+            "Kloe Escheu 6 (Trelvestian Sveitarfélagi) -- Col : (-425,-248) [-1|0]",
+            "Gruggia 5 (Trelvestian Sveitarfélagi) -- Col : (-199,-247) [0|0]",
+            "Groe Enousch 5 (Trelvestian Sveitarfélagi) -- Col : (251,-250) [1|0]",
+            "Glockaistr 6 (Trelvestian Sveitarfélagi) -- Col : (-408,154) [-1|0]",
+            "Usseagh 5 (Trelvestian Sveitarfélagi) -- Col : (223,151) [0|0]",
+            "Utheal 5 (Trelvestian Sveitarfélagi) -- Col : (-326,248) [-1|1]",
+            "Schogia 6 (Trelvestian Sveitarfélagi) -- Cap : (318,249) [1|1]",
+            "Iav Iandouxy 6 (Trelvestian Sveitarfélagi) -- Col : (-199,254) [0|1]"
+         ],
+         "label" : "Trelvestian Sveitarfélagi"
+      },
+      "-7" : {
+         "alliance_id" : "-7",
+         "data" : [
+            [
+               "355",
+               "-395"
+            ],
+            [
+               "-266",
+               "-282"
+            ],
+            [
+               "416",
+               "-184"
+            ],
+            [
+               "-222",
+               "20"
+            ],
+            [
+               "-445",
+               "181"
+            ],
+            [
+               "-192",
+               "289"
+            ],
+            [
+               "418",
+               "435"
+            ],
+            [
+               "-274",
+               "473"
+            ]
+         ],
+         "info" : [
+            "Thia Rhoahae Ios 7 (Diablotin) -- Col : (355,-395) [1|-1]",
+            "Upl Xyoezzoe Eew 7 (Diablotin) -- Col : (-266,-282) [-1|-1]",
+            "Iah Streat 7 (Diablotin) -- Col : (416,-184) [1|0]",
+            "Flie Tchanga Mia 7 (Diablotin) -- Col : (-222,20) [0|0]",
+            "Veuwugg 7 (Diablotin) -- Col : (-445,181) [-1|0]",
+            "Aegl Iyeaxy Bloo 7 (Diablotin) -- Col : (-192,289) [0|1]",
+            "Afl Eetrunt Ri 7 (Diablotin) -- Cap : (418,435) [1|1]",
+            "He Ghoula Eaqu 7 (Diablotin) -- Col : (-274,473) [-1|1]"
+         ],
+         "label" : "Diablotin"
+      },
+      "-9" : {
+         "alliance_id" : "-9",
+         "data" : [
+            [
+               "-466",
+               "-498"
+            ],
+            [
+               "-375",
+               "-496"
+            ],
+            [
+               "224",
+               "-496"
+            ],
+            [
+               "-220",
+               "-492"
+            ],
+            [
+               "-173",
+               "-491"
+            ],
+            [
+               "-146",
+               "-490"
+            ],
+            [
+               "173",
+               "-489"
+            ],
+            [
+               "274",
+               "-493"
+            ],
+            [
+               "-377",
+               "-243"
+            ],
+            [
+               "-227",
+               "-250"
+            ],
+            [
+               "-212",
+               "-247"
+            ],
+            [
+               "-185",
+               "-248"
+            ],
+            [
+               "-110",
+               "-247"
+            ],
+            [
+               "-49",
+               "-249"
+            ],
+            [
+               "-2",
+               "-248"
+            ],
+            [
+               "269",
+               "-246"
+            ],
+            [
+               "476",
+               "-250"
+            ],
+            [
+               "-406",
+               "256"
+            ],
+            [
+               "-241",
+               "254"
+            ],
+            [
+               "282",
+               "252"
+            ]
+         ],
+         "info" : [
+            "DeLambert-30-17 (DeLambert) -- Cap : (-466,-498) [-1|-1]",
+            "DeLambert-25-57 (DeLambert) -- Col : (-375,-496) [-1|-1]",
+            "DeLambert-10-341 (DeLambert) -- Col : (224,-496) [0|-1]",
+            "DeLambert-20-618 (DeLambert) -- Col : (-220,-492) [0|-1]",
+            "DeLambert-15-638 (DeLambert) -- Col : (-173,-491) [0|-1]",
+            "DeLambert-20-655 (DeLambert) -- Col : (-146,-490) [0|-1]",
+            "DeLambert-20-801 (DeLambert) -- Col : (173,-489) [0|-1]",
+            "DeLambert-20-856 (DeLambert) -- Col : (274,-493) [1|-1]",
+            "DeLambert-25-24014 (DeLambert) -- Col : (-377,-243) [-1|0]",
+            "DeLambert-10-24089 (DeLambert) -- Col : (-227,-250) [0|0]",
+            "DeLambert-10-24096 (DeLambert) -- Col : (-212,-247) [0|0]",
+            "DeLambert-15-24114 (DeLambert) -- Col : (-185,-248) [0|0]",
+            "DeLambert-15-24153 (DeLambert) -- Col : (-110,-247) [0|0]",
+            "DeLambert-20-24180 (DeLambert) -- Col : (-49,-249) [0|0]",
+            "DeLambert-25-24200 (DeLambert) -- Col : (-2,-248) [0|0]",
+            "DeLambert-30-24328 (DeLambert) -- Col : (269,-246) [1|0]",
+            "DeLambert-10-24428 (DeLambert) -- Col : (476,-250) [1|0]",
+            "DeLambert-30-71692 (DeLambert) -- Col : (-406,256) [-1|1]",
+            "DeLambert-30-71770 (DeLambert) -- Col : (-241,254) [0|1]",
+            "DeLambert-25-72030 (DeLambert) -- Col : (282,252) [1|1]"
+         ],
+         "label" : "DeLambert"
+      },
+      "0" : {
+         "alliance_id" : 0,
+         "data" : [
+            [
+               "345",
+               "-496"
+            ],
+            [
+               "-102",
+               "77"
+            ],
+            [
+               "132",
+               "-498"
+            ],
+            [
+               "-15",
+               "-496"
+            ],
+            [
+               "162",
+               "-270"
+            ],
+            [
+               "234",
+               "-300"
+            ],
+            [
+               "346",
+               "93"
+            ],
+            [
+               "-49",
+               "-497"
+            ],
+            [
+               "-124",
+               "-498"
+            ],
+            [
+               "-338",
+               "-493"
+            ],
+            [
+               "173",
+               "-21"
+            ],
+            [
+               "0",
+               "-499"
+            ],
+            [
+               "83",
+               "-493"
+            ],
+            [
+               "89",
+               "-28"
+            ],
+            [
+               "-105",
+               "-238"
+            ],
+            [
+               "-141",
+               "157"
+            ],
+            [
+               "318",
+               "39"
+            ],
+            [
+               "49",
+               "315"
+            ],
+            [
+               "41",
+               "-497"
+            ],
+            [
+               "285",
+               "-496"
+            ],
+            [
+               "-60",
+               "-495"
+            ],
+            [
+               "495",
+               "-499"
+            ],
+            [
+               "-46",
+               "-494"
+            ],
+            [
+               "-390",
+               "-496"
+            ],
+            [
+               "158",
+               "97"
+            ],
+            [
+               "269",
+               "401"
+            ],
+            [
+               "481",
+               "191"
+            ],
+            [
+               "350",
+               "-231"
+            ],
+            [
+               "-169",
+               "-494"
+            ],
+            [
+               "135",
+               "-495"
+            ],
+            [
+               "-255",
+               "284"
+            ],
+            [
+               "-406",
+               "-346"
+            ],
+            [
+               "-413",
+               "-74"
+            ],
+            [
+               "82",
+               "-62"
+            ],
+            [
+               "-293",
+               "78"
+            ],
+            [
+               "52",
+               "-62"
+            ],
+            [
+               "31",
+               "-387"
+            ],
+            [
+               "-259",
+               "72"
+            ],
+            [
+               "-34",
+               "-497"
+            ],
+            [
+               "218",
+               "-364"
+            ],
+            [
+               "330",
+               "-498"
+            ],
+            [
+               "158",
+               "-333"
+            ],
+            [
+               "-271",
+               "-500"
+            ],
+            [
+               "282",
+               "262"
+            ],
+            [
+               "359",
+               "-497"
+            ],
+            [
+               "-31",
+               "-500"
+            ],
+            [
+               "299",
+               "351"
+            ],
+            [
+               "335",
+               "-214"
+            ],
+            [
+               "276",
+               "-73"
+            ],
+            [
+               "-7",
+               "-474"
+            ],
+            [
+               "269",
+               "-86"
+            ],
+            [
+               "267",
+               "-499"
+            ],
+            [
+               "-423",
+               "-498"
+            ],
+            [
+               "-368",
+               "-152"
+            ],
+            [
+               "165",
+               "-496"
+            ],
+            [
+               "1",
+               "-179"
+            ],
+            [
+               "417",
+               "-497"
+            ],
+            [
+               "465",
+               "-497"
+            ],
+            [
+               "-60",
+               "-497"
+            ],
+            [
+               "221",
+               "-499"
+            ],
+            [
+               "-478",
+               "-77"
+            ],
+            [
+               "-55",
+               "-381"
+            ],
+            [
+               "-150",
+               "-499"
+            ],
+            [
+               "-31",
+               "141"
+            ],
+            [
+               "16",
+               "-467"
+            ],
+            [
+               "-285",
+               "-497"
+            ],
+            [
+               "101",
+               "-499"
+            ],
+            [
+               "-106",
+               "-495"
+            ],
+            [
+               "405",
+               "-499"
+            ],
+            [
+               "-285",
+               "-495"
+            ],
+            [
+               "128",
+               "-361"
+            ],
+            [
+               "353",
+               "-103"
+            ],
+            [
+               "45",
+               "-497"
+            ],
+            [
+               "-225",
+               "-494"
+            ],
+            [
+               "60",
+               "-496"
+            ],
+            [
+               "257",
+               "-489"
+            ],
+            [
+               "97",
+               "-443"
+            ],
+            [
+               "-473",
+               "-494"
+            ],
+            [
+               "-240",
+               "-497"
+            ],
+            [
+               "-487",
+               "-492"
+            ],
+            [
+               "-112",
+               "-321"
+            ],
+            [
+               "13",
+               "-409"
+            ],
+            [
+               "360",
+               "-496"
+            ],
+            [
+               "-168",
+               "-497"
+            ],
+            [
+               "297",
+               "-498"
+            ],
+            [
+               "135",
+               "-497"
+            ],
+            [
+               "352",
+               "-62"
+            ],
+            [
+               "134",
+               "-498"
+            ],
+            [
+               "278",
+               "476"
+            ],
+            [
+               "419",
+               "-497"
+            ],
+            [
+               "-439",
+               "-494"
+            ],
+            [
+               "75",
+               "-498"
+            ],
+            [
+               "398",
+               "56"
+            ],
+            [
+               "427",
+               "71"
+            ],
+            [
+               "195",
+               "-496"
+            ],
+            [
+               "-91",
+               "-495"
+            ],
+            [
+               "164",
+               "-497"
+            ],
+            [
+               "206",
+               "-497"
+            ],
+            [
+               "105",
+               "302"
+            ],
+            [
+               "-138",
+               "-497"
+            ],
+            [
+               "360",
+               "-494"
+            ],
+            [
+               "8",
+               "466"
+            ],
+            [
+               "-340",
+               "-493"
+            ],
+            [
+               "337",
+               "369"
+            ],
+            [
+               "-120",
+               "-498"
+            ],
+            [
+               "-226",
+               "183"
+            ],
+            [
+               "58",
+               "-317"
+            ],
+            [
+               "-450",
+               "-498"
+            ],
+            [
+               "-244",
+               "-497"
+            ],
+            [
+               "187",
+               "-2"
+            ],
+            [
+               "382",
+               "-433"
+            ],
+            [
+               "8",
+               "88"
+            ],
+            [
+               "-46",
+               "-56"
+            ],
+            [
+               "105",
+               "241"
+            ],
+            [
+               "-33",
+               "-500"
+            ],
+            [
+               "224",
+               "1"
+            ],
+            [
+               "-408",
+               "-500"
+            ],
+            [
+               "-301",
+               "-498"
+            ],
+            [
+               "-69",
+               "-174"
+            ],
+            [
+               "-316",
+               "-496"
+            ],
+            [
+               "104",
+               "-500"
+            ],
+            [
+               "406",
+               "93"
+            ],
+            [
+               "-278",
+               "-494"
+            ],
+            [
+               "-105",
+               "-498"
+            ],
+            [
+               "-150",
+               "-497"
+            ],
+            [
+               "-259",
+               "-496"
+            ],
+            [
+               "-128",
+               "-493"
+            ],
+            [
+               "210",
+               "-497"
+            ],
+            [
+               "-347",
+               "392"
+            ],
+            [
+               "150",
+               "-498"
+            ],
+            [
+               "89",
+               "-500"
+            ],
+            [
+               "-15",
+               "-498"
+            ],
+            [
+               "444",
+               "126"
+            ],
+            [
+               "194",
+               "-396"
+            ],
+            [
+               "240",
+               "-496"
+            ],
+            [
+               "-141",
+               "-303"
+            ],
+            [
+               "357",
+               "-497"
+            ],
+            [
+               "191",
+               "-496"
+            ],
+            [
+               "-361",
+               "-499"
+            ],
+            [
+               "241",
+               "427"
+            ],
+            [
+               "-75",
+               "-499"
+            ],
+            [
+               "162",
+               "-497"
+            ],
+            [
+               "416",
+               "291"
+            ],
+            [
+               "-352",
+               "-494"
+            ],
+            [
+               "90",
+               "-497"
+            ],
+            [
+               "375",
+               "-497"
+            ],
+            [
+               "-367",
+               "-491"
+            ],
+            [
+               "57",
+               "62"
+            ],
+            [
+               "376",
+               "234"
+            ],
+            [
+               "-222",
+               "-429"
+            ],
+            [
+               "70",
+               "4"
+            ],
+            [
+               "26",
+               "-497"
+            ],
+            [
+               "59",
+               "-499"
+            ],
+            [
+               "13",
+               "423"
+            ],
+            [
+               "12",
+               "-497"
+            ],
+            [
+               "227",
+               "-207"
+            ],
+            [
+               "9",
+               "-261"
+            ],
+            [
+               "-247",
+               "-305"
+            ],
+            [
+               "-495",
+               "-495"
+            ],
+            [
+               "204",
+               "466"
+            ],
+            [
+               "7",
+               "-42"
+            ],
+            [
+               "-405",
+               "-499"
+            ],
+            [
+               "315",
+               "-497"
+            ],
+            [
+               "17",
+               "-138"
+            ],
+            [
+               "-218",
+               "-492"
+            ],
+            [
+               "-280",
+               "-494"
+            ],
+            [
+               "105",
+               "-499"
+            ],
+            [
+               "181",
+               "191"
+            ],
+            [
+               "-421",
+               "-494"
+            ],
+            [
+               "127",
+               "-2"
+            ],
+            [
+               "323",
+               "-359"
+            ],
+            [
+               "-76",
+               "-496"
+            ],
+            [
+               "14",
+               "-328"
+            ],
+            [
+               "-235",
+               "-494"
+            ],
+            [
+               "284",
+               "-497"
+            ],
+            [
+               "181",
+               "264"
+            ],
+            [
+               "-258",
+               "-499"
+            ]
+         ],
+         "info" : [
+            "Jade (Neutral) -- Cap : (345,-496) [1|-1]",
+            "halkeye (Neutral) -- Cap : (-102,77) [0|0]",
+            "Ygnow (Neutral) -- Cap : (132,-498) [0|-1]",
+            "FatRat (Neutral) -- Cap : (-15,-496) [0|-1]",
+            "New Hope (Neutral) -- Cap : (162,-270) [0|-1]",
+            "Minea Prime (Neutral) -- Cap : (234,-300) [0|-1]",
+            "Nimrod Shaked's Empire (Neutral) -- Cap : (346,93) [1|0]",
+            "Ninjas (Neutral) -- Cap : (-49,-497) [0|-1]",
+            "yydongfang (Neutral) -- Cap : (-124,-498) [0|-1]",
+            "Naeindong (Neutral) -- Cap : (-338,-493) [-1|-1]",
+            "Zxcson (Neutral) -- Cap : (173,-21) [0|0]",
+            "Maylor (Neutral) -- Cap : (0,-499) [0|-1]",
+            "john3 (Neutral) -- Cap : (83,-493) [0|-1]",
+            "Downer (Neutral) -- Cap : (89,-28) [0|0]",
+            "Armin Pasalic's Empire (Neutral) -- Cap : (-105,-238) [0|0]",
+            "te45234 (Neutral) -- Cap : (-141,157) [0|0]",
+            "Toxicbdabomb (Neutral) -- Cap : (318,39) [1|0]",
+            "Zippy (Neutral) -- Cap : (49,315) [0|1]",
+            "Arcon (Neutral) -- Cap : (41,-497) [0|-1]",
+            "Yonatan77 (Neutral) -- Cap : (285,-496) [1|-1]",
+            "Assassin (Neutral) -- Cap : (-60,-495) [0|-1]",
+            "phlone (Neutral) -- Cap : (495,-499) [1|-1]",
+            "Evil Dark Tyrany (Neutral) -- Cap : (-46,-494) [0|-1]",
+            "Theboydes (Neutral) -- Cap : (-390,-496) [-1|-1]",
+            "Contact (Neutral) -- Cap : (158,97) [0|0]",
+            "Andrew Lee's Empire (Neutral) -- Cap : (269,401) [1|1]",
+            "Lucan (Neutral) -- Cap : (481,191) [1|0]",
+            "lacnic (Neutral) -- Cap : (350,-231) [1|0]",
+            "Azrael (Neutral) -- Cap : (-169,-494) [0|-1]",
+            "Zachary (Neutral) -- Cap : (135,-495) [0|-1]",
+            "Anushka (Neutral) -- Cap : (-255,284) [-1|1]",
+            "Dorian (Neutral) -- Cap : (-406,-346) [-1|-1]",
+            "te 34598723 (Neutral) -- Cap : (-413,-74) [-1|0]",
+            "Stellar Conglomerate (Neutral) -- Cap : (82,-62) [0|0]",
+            "te 4350543 (Neutral) -- Cap : (-293,78) [-1|0]",
+            "Dave (Neutral) -- Cap : (52,-62) [0|0]",
+            "te 359641234 (Neutral) -- Cap : (31,-387) [0|-1]",
+            "Texasaswang (Neutral) -- Cap : (-259,72) [-1|0]",
+            "Alberto (Neutral) -- Cap : (-34,-497) [0|-1]",
+            "Zergara (Neutral) -- Cap : (218,-364) [0|-1]",
+            "Highlander (Neutral) -- Cap : (330,-498) [1|-1]",
+            "TIMENIIG (Neutral) -- Cap : (158,-333) [0|-1]",
+            "Miguel (Neutral) -- Cap : (-271,-500) [-1|-1]",
+            "sashimi (Neutral) -- Cap : (282,262) [1|1]",
+            "hebrab (Neutral) -- Cap : (359,-497) [1|-1]",
+            "Valkuryn (Neutral) -- Cap : (-31,-500) [0|-1]",
+            "blah (Neutral) -- Cap : (299,351) [1|1]",
+            "Pete's Empire of Fish (Neutral) -- Cap : (335,-214) [1|0]",
+            "My Empire (Neutral) -- Cap : (276,-73) [1|0]",
+            "john4 (Neutral) -- Cap : (-7,-474) [0|-1]",
+            "Bärenland (Neutral) -- Cap : (269,-86) [1|0]",
+            "Waldo (Neutral) -- Cap : (267,-499) [1|-1]",
+            "Garetj (Neutral) -- Cap : (-423,-498) [-1|-1]",
+            "Emerge (Neutral) -- Cap : (-368,-152) [-1|0]",
+            "Kyle34 (Neutral) -- Cap : (165,-496) [0|-1]",
+            "jobonia_prime (Neutral) -- Cap : (1,-179) [0|0]",
+            "Rylian Order (Neutral) -- Cap : (417,-497) [1|-1]",
+            "Ysthane (Neutral) -- Cap : (465,-497) [1|-1]",
+            "Dayton-218 (Neutral) -- Cap : (-60,-497) [0|-1]",
+            "Zorphemax (Neutral) -- Cap : (221,-499) [0|-1]",
+            "Giankeelandia (Neutral) -- Cap : (-478,-77) [-1|0]",
+            "Prestoria (Neutral) -- Cap : (-55,-381) [0|-1]",
+            "Mousey (Neutral) -- Cap : (-150,-499) [0|-1]",
+            "PlaytesterZ (Neutral) -- Cap : (-31,141) [0|0]",
+            "Comex (Neutral) -- Cap : (16,-467) [0|-1]",
+            "Blazing guns (Neutral) -- Cap : (-285,-497) [-1|-1]",
+            "Darkness (Neutral) -- Cap : (101,-499) [0|-1]",
+            "AHTest4 (Neutral) -- Cap : (-106,-495) [0|-1]",
+            "Talos (Neutral) -- Cap : (405,-499) [1|-1]",
+            "atashino2 (Neutral) -- Cap : (-285,-495) [-1|-1]",
+            "The Terran Empire (Neutral) -- Cap : (128,-361) [0|-1]",
+            "thegalaXy (Neutral) -- Cap : (353,-103) [1|0]",
+            "Target (Neutral) -- Cap : (45,-497) [0|-1]",
+            "Pat3309 (Neutral) -- Cap : (-225,-494) [0|-1]",
+            "Derando (Neutral) -- Cap : (60,-496) [0|-1]",
+            "Facebook Sucks (Neutral) -- Cap : (257,-489) [1|-1]",
+            "Insanisarium (Neutral) -- Cap : (97,-443) [0|-1]",
+            "Aeri (Neutral) -- Cap : (-473,-494) [-1|-1]",
+            "VXZ (Neutral) -- Cap : (-240,-497) [0|-1]",
+            "Spy Ninjas (Neutral) -- Cap : (-487,-492) [-1|-1]",
+            "Ugglefett (Neutral) -- Cap : (-112,-321) [0|-1]",
+            "Sith Alliance (Neutral) -- Cap : (13,-409) [0|-1]",
+            "Toja of the Divine (Neutral) -- Cap : (360,-496) [1|-1]",
+            "Waste (Neutral) -- Cap : (-168,-497) [0|-1]",
+            "Angelofdarkness (Neutral) -- Cap : (297,-498) [1|-1]",
+            "Jaymeson (Neutral) -- Cap : (135,-497) [0|-1]",
+            "te 43523546 (Neutral) -- Cap : (352,-62) [1|0]",
+            "Harry potter (Neutral) -- Cap : (134,-498) [0|-1]",
+            "zombocom (Neutral) -- Cap : (278,476) [1|1]",
+            "Ma9nu2 (Neutral) -- Cap : (419,-497) [1|-1]",
+            "Evan (Neutral) -- Cap : (-439,-494) [-1|-1]",
+            "SleviN (Neutral) -- Cap : (75,-498) [0|-1]",
+            "SDL Might (Neutral) -- Cap : (398,56) [1|0]",
+            "Voyager (Neutral) -- Cap : (427,71) [1|0]",
+            "Bad Ninja Clan (Neutral) -- Cap : (195,-496) [0|-1]",
+            "vaelxon (Neutral) -- Cap : (-91,-495) [0|-1]",
+            "Thadm (Neutral) -- Cap : (164,-497) [0|-1]",
+            "Observer (Neutral) -- Cap : (206,-497) [0|-1]",
+            "te4567645 (Neutral) -- Cap : (105,302) [0|1]",
+            "Romanus (Neutral) -- Cap : (-138,-497) [0|-1]",
+            "United Federation (Neutral) -- Cap : (360,-494) [1|-1]",
+            "Discordia (Neutral) -- Cap : (8,466) [0|1]",
+            "Moose Hunters (Neutral) -- Cap : (-340,-493) [-1|-1]",
+            "Testr (Neutral) -- Cap : (337,369) [1|1]",
+            "Arrianah (Neutral) -- Cap : (-120,-498) [0|-1]",
+            "te  34958345 (Neutral) -- Cap : (-226,183) [0|0]",
+            "john2 (Neutral) -- Cap : (58,-317) [0|-1]",
+            "Steven (Neutral) -- Cap : (-450,-498) [-1|-1]",
+            "God of boobs (Neutral) -- Cap : (-244,-497) [0|-1]",
+            "te sdfsdfkj (Neutral) -- Cap : (187,-2) [0|0]",
+            "jtest1 (Neutral) -- Cap : (382,-433) [1|-1]",
+            "jtest (Neutral) -- Cap : (8,88) [0|0]",
+            "Eggeria (Neutral) -- Cap : (-46,-56) [0|0]",
+            "Melvinpang (Neutral) -- Cap : (105,241) [0|0]",
+            "Jon1812 (Neutral) -- Cap : (-33,-500) [0|-1]",
+            "RyanKnope (Neutral) -- Cap : (224,1) [0|0]",
+            "An unexploded cow (Neutral) -- Cap : (-408,-500) [-1|-1]",
+            "Ipo (Neutral) -- Cap : (-301,-498) [-1|-1]",
+            "Toqeer (Neutral) -- Cap : (-69,-174) [0|0]",
+            "Crunch (Neutral) -- Cap : (-316,-496) [-1|-1]",
+            "Helios (Neutral) -- Cap : (104,-500) [0|-1]",
+            "aaaaaa (Neutral) -- Cap : (406,93) [1|0]",
+            "The Z£Ks (Neutral) -- Cap : (-278,-494) [-1|-1]",
+            "Dudesons (Neutral) -- Cap : (-105,-498) [0|-1]",
+            "Puppet (Neutral) -- Cap : (-150,-497) [0|-1]",
+            "God of blood (Neutral) -- Cap : (-259,-496) [-1|-1]",
+            "Apollo (Neutral) -- Cap : (-128,-493) [0|-1]",
+            "Brainpire (Neutral) -- Cap : (210,-497) [0|-1]",
+            "sidian (Neutral) -- Cap : (-347,392) [-1|1]",
+            "Nath1704 (Neutral) -- Cap : (150,-498) [0|-1]",
+            "Alvinvinvin (Neutral) -- Cap : (89,-500) [0|-1]",
+            "Ramon (Neutral) -- Cap : (-15,-498) [0|-1]",
+            "Haarg (Neutral) -- Cap : (444,126) [1|0]",
+            "zendriks lot (Neutral) -- Cap : (194,-396) [0|-1]",
+            "BadChoob (Neutral) -- Cap : (240,-496) [0|-1]",
+            "The Techs (Neutral) -- Cap : (-141,-303) [0|-1]",
+            "Caprica (Neutral) -- Cap : (357,-497) [1|-1]",
+            "R2d2 (Neutral) -- Cap : (191,-496) [0|-1]",
+            "Walish (Neutral) -- Cap : (-361,-499) [-1|-1]",
+            "Shaggedelica (Neutral) -- Cap : (241,427) [0|1]",
+            "Breaker (Neutral) -- Cap : (-75,-499) [0|-1]",
+            "tmtowtdi (Neutral) -- Cap : (162,-497) [0|-1]",
+            "Calis Testings (Neutral) -- Cap : (416,291) [1|1]",
+            "icy (Neutral) -- Cap : (-352,-494) [-1|-1]",
+            "icd (Neutral) -- Cap : (90,-497) [0|-1]",
+            "kiamo (Neutral) -- Cap : (375,-497) [1|-1]",
+            "Kila (Neutral) -- Cap : (-367,-491) [-1|-1]",
+            "McCombs (Neutral) -- Cap : (57,62) [0|0]",
+            "Facebook (Neutral) -- Cap : (376,234) [1|0]",
+            "Scruffy (Neutral) -- Cap : (-222,-429) [0|-1]",
+            "fireartist (Neutral) -- Cap : (70,4) [0|0]",
+            "Kyle (Neutral) -- Cap : (26,-497) [0|-1]",
+            "Wabonk Leha (Neutral) -- Cap : (59,-499) [0|-1]",
+            "Zweebles (Neutral) -- Cap : (13,423) [0|1]",
+            "Louzazz (Neutral) -- Cap : (12,-497) [0|-1]",
+            "Graham Knop's Empire (Neutral) -- Cap : (227,-207) [0|0]",
+            "Bultron Empire (Neutral) -- Cap : (9,-261) [0|-1]",
+            "Lizmalia (Neutral) -- Cap : (-247,-305) [0|-1]",
+            "Zach (Neutral) -- Cap : (-495,-495) [-1|-1]",
+            "Sith (Neutral) -- Cap : (204,466) [0|1]",
+            "Qweson (Neutral) -- Cap : (7,-42) [0|0]",
+            "Simbad (Neutral) -- Cap : (-405,-499) [-1|-1]",
+            "Richheart (Neutral) -- Cap : (315,-497) [1|-1]",
+            "West (Neutral) -- Cap : (17,-138) [0|0]",
+            "Azzadoni (Neutral) -- Cap : (-218,-492) [0|-1]",
+            "Little People (Neutral) -- Cap : (-280,-494) [-1|-1]",
+            "Primordia (Neutral) -- Cap : (105,-499) [0|-1]",
+            "Vishnu Priya's Empire (Neutral) -- Cap : (181,191) [0|0]",
+            "Amitabh (Neutral) -- Cap : (-421,-494) [-1|-1]",
+            "kr117 (Neutral) -- Cap : (127,-2) [0|0]",
+            "Schezar (Neutral) -- Cap : (323,-359) [1|-1]",
+            "The Void (Neutral) -- Cap : (-76,-496) [0|-1]",
+            "FTR (Neutral) -- Cap : (14,-328) [0|-1]",
+            "Z£K (Neutral) -- Cap : (-235,-494) [0|-1]",
+            "holic (Neutral) -- Cap : (284,-497) [1|-1]",
+            "Groodle (Neutral) -- Cap : (181,264) [0|1]",
+            "Bregna (Neutral) -- Cap : (-258,-499) [-1|-1]"
+         ],
+         "label" : "Neutral"
+      },
+      "11" : {
+         "alliance_id" : "11",
+         "data" : [
+            [
+               "195",
+               "-188"
+            ],
+            [
+               "-78",
+               "-29"
+            ]
+         ],
+         "info" : [
+            "Robtopia (The WAUSAU PAC) -- Cap : (195,-188) [0|0]",
+            "Pabst (The WAUSAU PAC) -- Cap : (-78,-29) [0|0]"
+         ],
+         "label" : "The WAUSAU PAC"
+      },
+      "12" : {
+         "alliance_id" : "12",
+         "data" : [
+            [
+               "2",
+               "-356"
+            ]
+         ],
+         "info" : [
+            "The Tsurani Empire (The Orion Confederation) -- Cap : (2,-356) [0|-1]"
+         ],
+         "label" : "The Orion Confederation"
+      },
+      "15" : {
+         "alliance_id" : "15",
+         "data" : [
+            [
+               "424",
+               "70"
+            ]
+         ],
+         "info" : [
+            "Deeno (East Lacuna Trading Company) -- Cap : (424,70) [1|0]"
+         ],
+         "label" : "East Lacuna Trading Company"
+      },
+      "16" : {
+         "alliance_id" : "16",
+         "data" : [
+            [
+               "-37",
+               "-23"
+            ],
+            [
+               "201",
+               "-214"
+            ],
+            [
+               "44",
+               "-8"
+            ],
+            [
+               "50",
+               "-20"
+            ],
+            [
+               "81",
+               "-3"
+            ],
+            [
+               "28",
+               "3"
+            ],
+            [
+               "6",
+               "-5"
+            ],
+            [
+               "-23",
+               "-183"
+            ],
+            [
+               "257",
+               "416"
+            ],
+            [
+               "53",
+               "-21"
+            ]
+         ],
+         "info" : [
+            "Tarksum Enterprises (The Big Dealio) -- Cap : (-37,-23) [0|0]",
+            "bob3 (The Big Dealio) -- Cap : (201,-214) [0|0]",
+            "The Borg Collective (The Big Dealio) -- Cap : (44,-8) [0|0]",
+            "The Borg Collective (The Big Dealio) -- SS : (50,-20) [0|0]",
+            "bob2 (The Big Dealio) -- Cap : (81,-3) [0|0]",
+            "john (The Big Dealio) -- Cap : (28,3) [0|0]",
+            "bob1 (The Big Dealio) -- Cap : (6,-5) [0|0]",
+            "rathul (The Big Dealio) -- Cap : (-23,-183) [0|0]",
+            "Instrumentality (The Big Dealio) -- Cap : (257,416) [1|1]",
+            "Vrby (The Big Dealio) -- Cap : (53,-21) [0|0]"
+         ],
+         "label" : "The Big Dealio"
+      },
+      "17" : {
+         "alliance_id" : "17",
+         "data" : [
+            [
+               "-420",
+               "-497"
+            ]
+         ],
+         "info" : [
+            "testymctest (Dongitania) -- Cap : (-420,-497) [-1|-1]"
+         ],
+         "label" : "Dongitania"
+      },
+      "20" : {
+         "alliance_id" : "20",
+         "data" : [
+            [
+               "-195",
+               "-498"
+            ]
+         ],
+         "info" : [
+            "The Empire of Butt (The Alliance of Butt) -- Cap : (-195,-498) [0|-1]"
+         ],
+         "label" : "The Alliance of Butt"
+      },
+      "25" : {
+         "alliance_id" : "25",
+         "data" : [
+            [
+               "270",
+               "251"
+            ]
+         ],
+         "info" : [
+            "TheKi (Jazz) -- Cap : (270,251) [1|1]"
+         ],
+         "label" : "Jazz"
+      },
+      "26" : {
+         "alliance_id" : "26",
+         "data" : [
+            [
+               "-105",
+               "-496"
+            ]
+         ],
+         "info" : [
+            "Reavers (The bond) -- Cap : (-105,-496) [0|-1]"
+         ],
+         "label" : "The bond"
+      },
+      "28" : {
+         "alliance_id" : "28",
+         "data" : [
+            [
+               "-81",
+               "-480"
+            ]
+         ],
+         "info" : [
+            "Jeton (France Télécom) -- Cap : (-81,-480) [0|-1]"
+         ],
+         "label" : "France Télécom"
+      },
+      "31" : {
+         "alliance_id" : "31",
+         "data" : [
+            [
+               "225",
+               "-497"
+            ]
+         ],
+         "info" : [
+            "The Human Empire (Human Empire Union) -- Cap : (225,-497) [0|-1]"
+         ],
+         "label" : "Human Empire Union"
+      },
+      "32" : {
+         "alliance_id" : "32",
+         "data" : [
+            [
+               "-46",
+               "-490"
+            ],
+            [
+               "-212",
+               "104"
+            ]
+         ],
+         "info" : [
+            "Sweden (Frozen Waste) -- Cap : (-46,-490) [0|-1]",
+            "icydee (Frozen Waste) -- Cap : (-212,104) [0|0]"
+         ],
+         "label" : "Frozen Waste"
+      },
+      "4" : {
+         "alliance_id" : "4",
+         "data" : [
+            [
+               "11",
+               "2"
+            ],
+            [
+               "44",
+               "-30"
+            ]
+         ],
+         "info" : [
+            "Khenn (Lacunamatata) -- Cap : (11,2) [0|0]",
+            "Gratch (Lacunamatata) -- Cap : (44,-30) [0|0]"
+         ],
+         "label" : "Lacunamatata"
+      },
+      "8" : {
+         "alliance_id" : "8",
+         "data" : [
+            [
+               "13",
+               "-76"
+            ]
+         ],
+         "info" : [
+            "2bob (BOB UNITED) -- Cap : (13,-76) [0|0]"
+         ],
+         "label" : "BOB UNITED"
+      }
    },
-   "1" : {
-      "info" : [
-         "An unexploded cow (Sea of Goats) -- b'th'n E : (-20, 187) [0|0]",
-         "cxreg (Sea of Goats) -- MarshmallowLand : (9, 338) [0|1]",
-         "botswanaland (Sea of Goats) -- Flywheel : (-125, 248) [0|1]",
-         "codon (Sea of Goats) -- Inur Cellz : (87, 309) [0|1]",
-         "zaxon (Sea of Goats) -- Butts and such : (-137, 366) [0|1]",
-         "Badenov Foria (Sea of Goats) -- Pottsylvania : (153, 283) [0|1]",
-         "Empire Name (Sea of Goats) -- Colony   7 : (355, -154) [1|0]",
-         "Empire Name (Sea of Goats) -- Colony 1 : (-151, -292) [0|-1]",
-         "Empire Name (Sea of Goats) -- Colony 2 : (-153, -282) [0|-1]",
-         "Empire Name (Sea of Goats) -- Colony 3 : (-158, -287) [0|-1]",
-         "Empire Name (Sea of Goats) -- Colony 4 : (357, -159) [1|0]",
-         "Empire Name (Sea of Goats) -- Colony 5 : (-218, 16) [0|0]",
-         "Empire Name (Sea of Goats) -- Colony 6 : (-131, -275) [0|-1]",
-         "Empire Name (Sea of Goats) -- Colony 8 : (-154, -293) [0|-1]",
-         "Empire Name (Sea of Goats) -- Home Planet : (-151, -290) [0|-1]",
-         "Nicomachea (Sea of Goats) -- Ad Ithuirn 5 : (-43, 380) [0|1]",
-         "Pudgenet (Sea of Goats) -- Jerkface Beta Prime : (26, 465) [0|1]",
-         "Avenging Pussies (Sea of Goats) -- Scaredy Pants : (-147, -277) [0|-1]",
-         "Maldova (Sea of Goats) -- Maldova : (-228, 258) [0|1]",
-         "Xaositect (Sea of Goats) -- Stellar Noise : (-7, 348) [0|1]",
-         "Confusion (Sea of Goats) -- Causes of Confusion : (-44, -448) [0|-1]",
-         "last (Sea of Goats) -- Call : (-228, -259) [0|-1]",
-         "Ysthane (Sea of Goats) -- Ysthane Prime : (-206, 252) [0|1]"
-      ],
-      "data" : [
-         [
-            -20,
-            187
+   "map" : {
+      "bounds" : {
+         "x" : [
+            -500,
+            500
          ],
-         [
-            9,
-            338
-         ],
-         [
-            -125,
-            248
-         ],
-         [
-            87,
-            309
-         ],
-         [
-            -137,
-            366
-         ],
-         [
-            153,
-            283
-         ],
-         [
-            355,
-            -154
-         ],
-         [
-            -151,
-            -292
-         ],
-         [
-            -153,
-            -282
-         ],
-         [
-            -158,
-            -287
-         ],
-         [
-            357,
-            -159
-         ],
-         [
-            -218,
-            16
-         ],
-         [
-            -131,
-            -275
-         ],
-         [
-            -154,
-            -293
-         ],
-         [
-            -151,
-            -290
-         ],
-         [
-            -43,
-            380
-         ],
-         [
-            26,
-            465
-         ],
-         [
-            -147,
-            -277
-         ],
-         [
-            -228,
-            258
-         ],
-         [
-            -7,
-            348
-         ],
-         [
-            -44,
-            -448
-         ],
-         [
-            -228,
-            -259
-         ],
-         [
-            -206,
-            252
+         "y" : [
+            -500,
+            500
          ]
-      ],
-      "label" : "Sea of Goats",
-      "rank" : 1
-   },
+      }
+   }
 }
